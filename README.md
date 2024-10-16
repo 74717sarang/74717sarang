@@ -10,8 +10,9 @@ I'm Sarang Patil, a passionate full-stack developer with expertise in Java, Spri
 
 ## 🌱 I’m currently learning
 - Advanced Data Structures and Algorithms (DSA)
-- Salesforce Automation
-- C++ for performance-driven applications
+- JAVA
+- .NET
+- C++ 
 - Cloud Technologies (AWS, Azure)
 
 
