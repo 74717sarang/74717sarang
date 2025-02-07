@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @74717sarang
+# 👋 Hi, I’m Sarang patil
 
 I'm Sarang Patil, a passionate full-stack developer with expertise in Java, Spring Boot, C#, .NET. I have a keen interest in solving real-world problems through innovative technology solutions.
 
